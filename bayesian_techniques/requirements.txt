@@ -1,0 +1,5 @@
+numpy==1.16.3
+pandas==0.23.4
+scipy==1.1.0
+scikit-learn==0.20.3
+-e git+https://github.com/slremy/netsapi.git#egg=netsapi
